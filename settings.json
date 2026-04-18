@@ -9,7 +9,7 @@
     "ip": "OffTheMaine.aternos.me",
     "port": 23980,
     "version": " ",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
