@@ -8,8 +8,8 @@
   "server": {
     "ip": "OffTheMaine.aternos.me",
     "port": 23980,
-    "version": "26.1.2 (12)",
-    "try-creative": false
+    "version": "26.1.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
